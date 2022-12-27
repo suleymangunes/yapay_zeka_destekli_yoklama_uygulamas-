@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10603138614",
+    "project_id": "yoklama-sistemi-5207e",
+    "storage_bucket": "yoklama-sistemi-5207e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10603138614:android:a3b9c43550672c61b71297",
+        "android_client_info": {
+          "package_name": "com.example.take_shot_and_save"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10603138614-hf6akeph8l47stcpp88i188oau8dirph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUwuzAi8-wwiIMlykB4DwE1sK2T3VkrRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10603138614-hf6akeph8l47stcpp88i188oau8dirph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
